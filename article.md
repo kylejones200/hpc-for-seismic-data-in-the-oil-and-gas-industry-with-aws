@@ -32,6 +32,3 @@ AWS's HPC solutions are transforming seismic data processing by providing scalab
 
 For a visual demonstration of seismic data processing on AWS, you can watch the following video:
 
-<h1 id="an-error-occurred." class="message">An error occurred.</h1>
-
-Unable to execute JavaScript.
