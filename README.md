@@ -11,14 +11,7 @@ Interpreting 3D seismic data involves identifying geological features such as sa
 
 The seismic processing workflow is traditionally executed on on-premises HPC centers, requiring extensive IT infrastructure and significant capital investment. AWS offers on-demand seismic processing (OdSP) solutions that eliminate the need for elaborate IT planning. By utilizing GeoTomo's software --- TomoPlus and GeoThrust --- on AWS, companies can execute seismic processing jobs in a cost-managed, fully scalable, and turnkey delivered HPC environment. This approach allows for the creation of HPC clusters in the cloud as needed, scaling resources appropriately, and dissolving them upon project completion, thereby reducing costs and increasing agility.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
